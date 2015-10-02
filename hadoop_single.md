@@ -9,7 +9,7 @@ yum -y remove "java-*"
 arch명령어를 통해 비트수 확인 후 설치
 
 
-    cd ~/Downloads 
+    cd ~/Downloads  
 
     (64비트인 경우)
     wget —no-check-certificate --no-cookies --header "Cookie: oraclelicense=accept-securebackup-cookie" http://download.oracle.com/otn-pub/java/jdk/8u5-b13/jdk-8u5-linux-x64.tar.gz
